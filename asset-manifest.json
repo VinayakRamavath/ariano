@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ariano/static/css/main.a08267bd.chunk.css",
-    "main.js": "/ariano/static/js/main.ffa59af4.chunk.js",
-    "main.js.map": "/ariano/static/js/main.ffa59af4.chunk.js.map",
-    "runtime-main.js": "/ariano/static/js/runtime-main.d3111ab3.js",
-    "runtime-main.js.map": "/ariano/static/js/runtime-main.d3111ab3.js.map",
-    "static/js/2.2365974f.chunk.js": "/ariano/static/js/2.2365974f.chunk.js",
-    "static/js/2.2365974f.chunk.js.map": "/ariano/static/js/2.2365974f.chunk.js.map",
-    "static/js/3.6430bad8.chunk.js": "/ariano/static/js/3.6430bad8.chunk.js",
-    "static/js/3.6430bad8.chunk.js.map": "/ariano/static/js/3.6430bad8.chunk.js.map",
+    "main.css": "/ariano/static/css/main.5719ae0a.chunk.css",
+    "main.js": "/ariano/static/js/main.b247d7a7.chunk.js",
+    "main.js.map": "/ariano/static/js/main.b247d7a7.chunk.js.map",
+    "runtime-main.js": "/ariano/static/js/runtime-main.329ae961.js",
+    "runtime-main.js.map": "/ariano/static/js/runtime-main.329ae961.js.map",
+    "static/js/2.5fadbf2c.chunk.js": "/ariano/static/js/2.5fadbf2c.chunk.js",
+    "static/js/2.5fadbf2c.chunk.js.map": "/ariano/static/js/2.5fadbf2c.chunk.js.map",
+    "static/js/3.c9477173.chunk.js": "/ariano/static/js/3.c9477173.chunk.js",
+    "static/js/3.c9477173.chunk.js.map": "/ariano/static/js/3.c9477173.chunk.js.map",
     "index.html": "/ariano/index.html",
-    "static/css/main.a08267bd.chunk.css.map": "/ariano/static/css/main.a08267bd.chunk.css.map",
-    "static/js/2.2365974f.chunk.js.LICENSE.txt": "/ariano/static/js/2.2365974f.chunk.js.LICENSE.txt",
+    "static/css/main.5719ae0a.chunk.css.map": "/ariano/static/css/main.5719ae0a.chunk.css.map",
+    "static/js/2.5fadbf2c.chunk.js.LICENSE.txt": "/ariano/static/js/2.5fadbf2c.chunk.js.LICENSE.txt",
     "static/media/ariano-landing-page.webflow.css": "/ariano/static/media/Desktop---wave-3.597b9ec5.jpg",
     "static/media/Group-31ccc-p-1080.a465e7a5.png": "/ariano/static/media/Group-31ccc-p-1080.a465e7a5.png",
     "static/media/Group-31ccc-p-1600.915c9955.png": "/ariano/static/media/Group-31ccc-p-1600.915c9955.png",
@@ -26,9 +26,9 @@
     "static/media/Logo.1c0191e9.png": "/ariano/static/media/Logo.1c0191e9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3111ab3.js",
-    "static/js/2.2365974f.chunk.js",
-    "static/css/main.a08267bd.chunk.css",
-    "static/js/main.ffa59af4.chunk.js"
+    "static/js/runtime-main.329ae961.js",
+    "static/js/2.5fadbf2c.chunk.js",
+    "static/css/main.5719ae0a.chunk.css",
+    "static/js/main.b247d7a7.chunk.js"
   ]
 }
